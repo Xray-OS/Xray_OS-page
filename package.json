@@ -1,0 +1,21 @@
+{
+  "name": "xray-linux-website",
+  "version": "1.0.0",
+  "description": "Professional website for XRay Linux distribution",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css",
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "dev": "npx serve . -p 8000"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "keywords": [
+    "linux",
+    "arch",
+    "distro",
+    "xray"
+  ],
+  "author": "",
+  "license": "MIT"
+}
