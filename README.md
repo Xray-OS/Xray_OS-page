@@ -42,9 +42,8 @@ xray-technologies-page/
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Xray-OS/Xray_OS-page.git
-git clone 
-cd Xray_OS-page
+git clone <repository-url>
+cd xray-technologies-page
 
 # Install dependencies
 npm install
