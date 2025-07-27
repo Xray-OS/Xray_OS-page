@@ -42,7 +42,7 @@ xray-technologies-page/
 ### Installation
 ```bash
 # Clone the repository
-git clone [<repository-url>](https://github.com/Xray-OS/Xray_OS-page.git)
+git clone https://github.com/Xray-OS/Xray_OS-page.git
 git clone 
 cd Xray_OS-page
 
